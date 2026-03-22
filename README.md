@@ -1,22 +1,18 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,30:111827,60:1e293b,100:0f172a&text=Huy%20Nguyen&fontColor=f8fafc&fontSize=48&fontAlignY=36&desc=PHP%20Developer%20%E2%80%A2%20Fullstack%20Engineer%20%E2%80%A2%20UI%2FUX%20Focused&descAlignY=56&descSize=17&descColor=94a3b8&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:0a0a0a,30:111827,60:1e293b,100:0f172a&text=Mr.%20Huy&fontColor=f8fafc&fontSize=52&fontAlignY=36&desc=Tech%20Lead%20%E2%80%A2%20Product%20Architect%20%E2%80%A2%20AI%20%26%20Security%20Strategist&descAlignY=56&descSize=17&descColor=94a3b8&animation=fadeIn" />
 
 <div align="center">
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=70&lines=%E2%9A%A1+Building+scalable+systems+with+Laravel;%F0%9F%8E%AC+Streaming+platforms+%7C+Crawlers+%7C+Clean+UI%2FUX;%F0%9F%94%A7+Backend+architecture+that+just+works" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1500&color=38BDF8&center=true&vCenter=true&multiline=true&repeat=true&width=750&height=70&lines=Turning+ideas+into+architecture+%7C+architecture+into+products;AI+Agents+%7C+Security+Blueprints+%7C+Scalable+Laravel+Systems;Leading+teams+with+vision%2C+not+just+code" alt="Typing SVG" />
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-%F0%9F%87%BB%F0%9F%87%B3_Based_in_Vietnam-0f172a?style=flat-square&labelColor=0f172a" />
-  <img src="https://img.shields.io/badge/-%F0%9F%87%BB%F0%9F%87%B3_Based_in_Vietnam-f8fafc?style=flat-square&labelColor=f8fafc" />
-</picture>
+<img src="https://img.shields.io/badge/Vietnam-0f172a?style=flat-square&logo=googlemaps&logoColor=38bdf8" />
 &nbsp;
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/-Open_to_collaborate-0f172a?style=flat-square&labelColor=0f172a&logo=handshake&logoColor=38bdf8" />
-  <img src="https://img.shields.io/badge/-Open_to_collaborate-f8fafc?style=flat-square&labelColor=f8fafc&logo=handshake&logoColor=0ea5e9" />
-</picture>
+<img src="https://img.shields.io/badge/Open_to_Collaborate-0f172a?style=flat-square&logo=handshake&logoColor=22c55e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Tech_Leadership-0f172a?style=flat-square&logo=target&logoColor=f43f5e" />
 
 </div>
 
@@ -33,31 +29,39 @@
 <div align="center">
 <table>
 <tr>
-<td width="600">
+<td width="620">
 
-Backend and Fullstack Developer focused on **scalable products**, **robust architecture**, and **clean user experience**.
+Tech Lead and Product Architect who turns ideas into production-ready systems. I define the vision, design the architecture, set security standards, and guide development teams to build products that scale.
 
-I build systems that prioritize maintainability, performance, and clarity across both backend and frontend layers. My main experience includes **Laravel applications**, **streaming systems**, **automation pipelines**, and **production-ready web platforms**.
+My strength is not just writing code -- it is **seeing the full picture**: from product direction and system design to security policies and team coordination. I work across **Laravel backends**, **AI-powered agents**, **streaming platforms**, and **security-first infrastructure**.
 
 ```php
-final class HuyNguyen
+final class MrHuy
 {
-    public string $role = 'Fullstack Developer';
-    public array  $focus = ['Backend Architecture', 'Clean UI/UX', 'Scalable Systems'];
-    
+    public string $role = 'Tech Lead & Product Architect';
+
+    public array $strengths = [
+        'Product vision and technical direction',
+        'System architecture and scalable design',
+        'Security strategy and threat modeling',
+        'AI agent and chatbot integration',
+        'Team leadership and dev coordination',
+    ];
+
     public function stack(): array
     {
         return [
             'backend'  => ['PHP', 'Laravel', 'Node.js', 'REST API'],
             'frontend' => ['JavaScript', 'Next.js', 'SPA', 'Tailwind CSS'],
-            'data'     => ['MySQL', 'Redis', 'Queue Systems'],
-            'infra'    => ['Linux', 'Nginx', 'Docker'],
+            'ai'       => ['AI Agents', 'Claw Bot', 'LLM Integration'],
+            'security' => ['Threat Modeling', 'Access Control', 'Encryption'],
+            'infra'    => ['Linux', 'Nginx', 'Redis', 'MySQL'],
         ];
     }
-    
-    public function motto(): string
+
+    public function philosophy(): string
     {
-        return 'Clean code is the baseline. Scalable systems are the goal.';
+        return 'Ideas without architecture are dreams. Architecture without security is risk.';
     }
 }
 ```
@@ -81,12 +85,14 @@ final class HuyNguyen
 
 | Domain | Focus Areas |
 |:---|:---|
-| **Architecture** | Laravel app design · Service patterns · Clean code principles |
-| **Backend** | REST APIs · Queue systems · Caching strategies · Performance tuning |
-| **Frontend** | Next.js · SPA development · UI/UX implementation · Responsive design |
-| **Streaming** | HLS delivery · Access control · Media workflows · CDN optimization |
-| **Automation** | Data crawlers · Pipeline orchestration · Retry logic · Scheduling |
-| **Infrastructure** | Linux servers · Nginx · Docker · MySQL · Redis |
+| **Leadership** | Product direction . Technical decision-making . Team coordination . Code review |
+| **Architecture** | Laravel app design . Service patterns . Modular systems . Clean code principles |
+| **AI & Automation** | AI agent workflows . Claw Bot systems . LLM integration . Intelligent crawlers |
+| **Security** | Threat modeling . Security blueprints . Access control . Encryption strategies |
+| **Backend** | REST APIs . Queue systems . Caching strategies . Performance tuning |
+| **Frontend** | Next.js . SPA development . UI/UX implementation . Responsive design |
+| **Streaming** | HLS delivery . Media workflows . CDN optimization . DRM integration |
+| **Infrastructure** | Linux servers . Nginx . MySQL . Redis . CI/CD pipelines |
 
 </div>
 
@@ -112,12 +118,28 @@ final class HuyNguyen
   <img src="https://img.shields.io/badge/Next.js-0f172a?style=for-the-badge&logo=next.js&logoColor=f8fafc" />
 </p>
 
-#### Data & Infrastructure
+#### AI & Intelligent Systems
+
+<p>
+  <img src="https://img.shields.io/badge/AI_Agents-0f172a?style=for-the-badge&logo=openai&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Claw_Bot-0f172a?style=for-the-badge&logo=probot&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/LLM_Integration-0f172a?style=for-the-badge&logo=huggingface&logoColor=fbbf24" />
+  <img src="https://img.shields.io/badge/Prompt_Engineering-0f172a?style=for-the-badge&logo=openai&logoColor=a78bfa" />
+</p>
+
+#### Security & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/Threat_Modeling-0f172a?style=for-the-badge&logo=hackerone&logoColor=f43f5e" />
+  <img src="https://img.shields.io/badge/Encryption-0f172a?style=for-the-badge&logo=letsencrypt&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Access_Control-0f172a?style=for-the-badge&logo=auth0&logoColor=38bdf8" />
+</p>
+
+#### Data & DevOps
 
 <p>
   <img src="https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=f43f5e" />
-  <img src="https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=38bdf8" />
   <img src="https://img.shields.io/badge/Nginx-0f172a?style=for-the-badge&logo=nginx&logoColor=22c55e" />
   <img src="https://img.shields.io/badge/Linux-0f172a?style=for-the-badge&logo=linux&logoColor=fbbf24" />
 </p>
@@ -139,6 +161,77 @@ final class HuyNguyen
 
 <table align="center"><tr><td>
 
+## `> role --how-i-work`
+
+</td></tr></table>
+
+<div align="center">
+<table>
+<tr>
+<td width="620">
+
+```
+  IDEA                ARCHITECTURE           SECURITY              EXECUTION
+  ────                ────────────           ────────              ─────────
+                                                                  
+  ┌──────────┐       ┌──────────────┐       ┌──────────────┐     ┌──────────────┐
+  │ Define   │──────>│ Design       │──────>│ Set security │────>│ Guide dev    │
+  │ product  │       │ system       │       │ standards &  │     │ team to      │
+  │ vision & │       │ architecture │       │ threat model │     │ build &      │
+  │ direction│       │ & patterns   │       │ blueprints   │     │ ship it      │
+  └──────────┘       └──────────────┘       └──────────────┘     └──────────────┘
+```
+
+I operate at the intersection of **product thinking** and **technical execution**. My workflow:
+
+1. **Ideation** -- Define what to build and why it matters
+2. **Architecture** -- Design the system blueprint, data flow, and service boundaries
+3. **Security** -- Establish threat models, access policies, and encryption standards
+4. **Delegation** -- Break down tasks, assign to developers, review and iterate
+5. **Delivery** -- Ensure quality, performance, and production readiness
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<table align="center"><tr><td>
+
+## `> security --blueprint`
+
+</td></tr></table>
+
+<div align="center">
+<table>
+<tr>
+<td width="620">
+
+Security is not an afterthought -- it is a foundation. I define security strategies before the first line of code is written.
+
+| Layer | Approach |
+|:---|:---|
+| **Application** | Input validation . CSRF/XSS protection . Rate limiting . Secure session management |
+| **Authentication** | Token-based auth . OAuth2 flows . Role-based access control (RBAC) |
+| **Data** | Encryption at rest and in transit . Database access policies . Backup strategies |
+| **Infrastructure** | Firewall rules . SSH hardening . SSL/TLS enforcement . Log monitoring |
+| **API** | API key rotation . Request signing . Throttling . IP whitelisting |
+| **Process** | Security audits . Dependency scanning . Incident response planning |
+
+</td>
+</tr>
+</table>
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<table align="center"><tr><td>
+
 ## `> projects --featured`
 
 </td></tr></table>
@@ -147,13 +240,27 @@ final class HuyNguyen
 <table>
 <tr>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <br/>
-<img width="60" src="https://img.icons8.com/fluency/96/video-playlist.png" alt="streaming"/>
+<img width="50" src="https://img.icons8.com/fluency/96/bot.png" alt="ai-agent"/>
+<br/><br/>
+<strong>AI Claw Bot</strong>
+<br/><br/>
+<sub>Intelligent chatbot system powered by AI agents with context-aware responses, automated workflows, and LLM integration for business operations.</sub>
+<br/><br/>
+<img src="https://img.shields.io/badge/AI-22c55e?style=flat-square&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-f43f5e?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/LLM-a78bfa?style=flat-square&logoColor=white" />
+<br/><br/>
+</td>
+
+<td align="center" width="25%">
+<br/>
+<img width="50" src="https://img.icons8.com/fluency/96/video-playlist.png" alt="streaming"/>
 <br/><br/>
 <strong>Streaming Platform</strong>
 <br/><br/>
-<sub>High-performance video platform with HLS delivery, access control, performance optimization, and scalable media workflows.</sub>
+<sub>High-performance video platform with HLS delivery, access control, DRM protection, and scalable media workflows.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Laravel-f43f5e?style=flat-square&logo=laravel&logoColor=white" />
 <img src="https://img.shields.io/badge/HLS-0ea5e9?style=flat-square&logoColor=white" />
@@ -161,13 +268,13 @@ final class HuyNguyen
 <br/><br/>
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <br/>
-<img width="60" src="https://img.icons8.com/fluency/96/spider.png" alt="crawler"/>
+<img width="50" src="https://img.icons8.com/fluency/96/spider.png" alt="crawler"/>
 <br/><br/>
 <strong>Crawler System</strong>
 <br/><br/>
-<sub>Automated data collection pipeline with queue-based architecture, retry logic, and maintainable extraction workflows.</sub>
+<sub>Automated data collection pipeline with queue-based architecture, retry logic, and AI-enhanced extraction workflows.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/PHP-38bdf8?style=flat-square&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Queue-22c55e?style=flat-square&logoColor=white" />
@@ -175,13 +282,13 @@ final class HuyNguyen
 <br/><br/>
 </td>
 
-<td align="center" width="33%">
+<td align="center" width="25%">
 <br/>
-<img width="60" src="https://img.icons8.com/fluency/96/movie.png" alt="cms"/>
+<img width="50" src="https://img.icons8.com/fluency/96/movie.png" alt="cms"/>
 <br/><br/>
 <strong>Movie CMS</strong>
 <br/><br/>
-<sub>Content platform with modular structure, SEO optimization, metadata handling, and UI consistency for media websites.</sub>
+<sub>Content platform with modular structure, SEO optimization, metadata handling, and security-hardened architecture.</sub>
 <br/><br/>
 <img src="https://img.shields.io/badge/Next.js-f8fafc?style=flat-square&logo=next.js&logoColor=0f172a" />
 <img src="https://img.shields.io/badge/Laravel-f43f5e?style=flat-square&logo=laravel&logoColor=white" />
@@ -235,15 +342,16 @@ final class HuyNguyen
 <td>
 
 ```
- ╔══════════════════════════════════════════════════════════════╗
- ║                                                              ║
- ║   ◈  Building scalable Laravel systems at production scale   ║
- ║   ◈  Improving streaming reliability and security            ║
- ║   ◈  Designing maintainable automation pipelines             ║
- ║   ◈  Creating products with strong backend + polished UI     ║
- ║   ◈  Exploring microservices and event-driven architecture   ║
- ║                                                              ║
- ╚══════════════════════════════════════════════════════════════╝
+ ╔════════════════════════════════════════════════════════════════════╗
+ ║                                                                    ║
+ ║   >>  Scaling AI agent systems for production workloads            ║
+ ║   >>  Building security-first architecture standards               ║
+ ║   >>  Advancing Claw Bot with multi-model LLM pipelines           ║
+ ║   >>  Designing zero-trust security frameworks                     ║
+ ║   >>  Leading cross-functional teams on complex products           ║
+ ║   >>  Streaming platform reliability and DRM hardening             ║
+ ║                                                                    ║
+ ╚════════════════════════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -296,7 +404,7 @@ final class HuyNguyen
 <br/><br/>
 
 ```
-"Clean code is the baseline. Scalable systems are the goal."
+"Ideas without architecture are dreams. Architecture without security is risk."
 ```
 
 <br/>
